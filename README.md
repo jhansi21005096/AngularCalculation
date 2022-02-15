@@ -189,4 +189,4 @@ export class RectangleComponent{
 
 
 ## Result:
-Web page for mathematical calculation is successfully created using bootstrap.
+Web page for mathematical calculation is successfully created using Angular.
