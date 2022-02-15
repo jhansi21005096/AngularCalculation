@@ -186,6 +186,7 @@ export class RectangleComponent{
 }
 ```
 ## OUTPUT:
+![Output](https://github.com/jhansi21005096/AngularCalculation/blob/main/img2.png)
 
 
 ## Result:
